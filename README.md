@@ -29,8 +29,8 @@
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jae-the-castaway&show_icons=true&theme=dark&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jae-the-castaway&exclude_repo=KNN-Image-Classification&show_icons=true&theme=dark&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jae-the-castaway&show_icons=true&theme=dark&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jae-the-castaway&exclude_repo=KNN-Image-Classification&show_icons=true&theme=dark&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 <div align="center">
 <i>Questions? Collaboration? Feel free to <a href="https://github.com/jae-the-castaway">reach me!</a></i>

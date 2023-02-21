@@ -1,31 +1,15 @@
+<h1 align="center">Hi, I'm Jaeheon Kim</h1>
 <a href="https://linkedin.com/in/jae-the-castaway" align="center"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="Stars Badge"/></a>
 <a href="https://instagram.com/jae_the_castaway" align="center"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white" alt="Stars Badge"/></a>
-<h1 align="center">Hi, I'm Jaeheon Kim</h1>
+
 
 - 🇰🇷 I’m from South Korea
 - 🏙️ I'm located in Chicago, IL
-- 👀 I’m interested in <strong>front-end web development</strong>
-- 🌱 I’m currently learning <strong>React.js</strong>
-- 📫 Reach me on <a href="https://linkedin.com/in/jae-the-castaway"><strong>Linkedin !</strong></a>
-
-<!--  <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" /> -->
-🤯 **Code I Recently learned and amazed!:**
-
-```css
-/*css*/
-/*Hiding Content Visually only*/
-
-.visually-hidden:not(:focus):not(:active) {
-  clip: rect(0 0 0 0); 
-  clip-path: inset(50%);
-  height: 1px;
-  overflow: hidden;
-  position: absolute;
-  white-space: nowrap; 
-  width: 1px;
-}
-```
-
+- 🌱 I’m currently learning <strong>React, Typescript, Redux</strong>
+- Fun fact about me : I've watched more than 1,000 movies
+- 📫 Reach me on <a href="https://linkedin.com/in/jae-the-castaway"><strong>Linkedin</strong></a>!
+ <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+ 
 📈 **My GitHub Stats:**
 
 <p>

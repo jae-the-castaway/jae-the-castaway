@@ -1,9 +1,7 @@
 <a href="https://linkedin.com/in/jae-the-castaway" align="center"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="Stars Badge"/></a>
 <a href="https://instagram.com/jae_the_castaway" align="center"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white" alt="Stars Badge"/></a>
 <h1 align="center">Hi, I'm Jaeheon Kim</h1>
-<p>I'm a web developer who is passionate about creating simple minimalistic user-friendly websites. Some technologies I enjoy working with include ReactJS, Tailwind, PostgreSQL, nodeJS. I'm curretly focusing on building projects for that is accesible for everyone. My personal interest is in walkable cities, minimalism, filmmaking, running.</p>
-
-
+<p>I'm a web developer who is passionate about creating simple minimalistic user-friendly websites. Some technologies I enjoy working with include ReactJS, Tailwind, PostgreSQL, nodeJS. I'm curretly focusing on building projects for that is accesible for everyone. My personal interest is in creative writing, walkable cities, filmmaking, running, video games.</p>
 
 - 🇰🇷 I’m from South Korea
 - 🏙️ I'm located in Chicago, IL
